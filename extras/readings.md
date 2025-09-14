@@ -14,7 +14,8 @@ Name | Author(s)
 [Introduction to Computation and Programming Using Python 3e](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition) | John V. Guttag
 [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) | Allen B. Downey
 [How to Design Programs 2e](https://www.htdp.org/) | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
-[Structure and Interpretation of Computer Programs 2e](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | Hal Abelson, Jerry Sussman, Julie Sussman 
+[Structure and Interpretation of Computer Programs 2e](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | Hal Abelson, Jerry Sussman, Julie Sussman
+[The Structure and Interpretation of Computer Programs (2021, JavaScript)](https://sourceacademy.org/sicpjs/index) | Harold Abelson, Gerald Jay Sussman, Julie Sussman, Martin Henz, Tobias Wrigstad and Samuel Fang
 [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) | Peter Van Roy, Seif Haridi
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 [Refactoring](https://www.refactoring.com/) | Martin Fowler
@@ -33,7 +34,7 @@ Name | Author(s)
 [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson
 [Ximera: Interactive Calculus Textbooks](https://ximera.osu.edu/) | [Ximera team](https://ximera.osu.edu/about/team)
 [Discrete Mathematics with Applications (4th Edition)](http://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328/) | Susanna S. Epp
-[Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi/) | Oscar Levin
+[Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi4/frontmatter.html) | Oscar Levin
 [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) | Charles M. Grinstead, J. Laurie Snell
 [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/) | Gilbert Strang
@@ -49,6 +50,7 @@ Name | Author(s)
 [Computer Organization and Design: The Hardware/Software Interface (6th Edition)](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0128201096/) | David Patternson, John Hennessy
 [Computer Networks (5th Edition)](http://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958/) | Andrew S. Tanenbaum, David J. Wetherall
 [Computer Networking: A Top-Down Approach (8th Edition)](https://gaia.cs.umass.edu/kurose_ross/index.html) | James F Kurose, Keith W Ross
+[Computer Networks: A Systems Approach](https://book.systemsapproach.org/) | Larry Peterson and Bruce Davie
 [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X) | Andrew Tanenbaum
 [Operating Systems Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388) | Andrew S. Tanenbaum, Albert S. Woodhull
 [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) | Robert Nystrom
@@ -65,10 +67,12 @@ Name | Author(s)
 [Introduction to Algorithms (3rd Edition)](http://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/) | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 [The Algorithm Design Manual (3rd Edition)](https://www.algorist.com/) | Steven Skiena
 [Algorithms (4th Edition)](https://algs4.cs.princeton.edu/home/) | Robert Sedgewick
+[Algorithms Illuminated](https://algorithmsilluminated.org/) | Tim Roughgarden
 [Category Theory: A Gentle Introduction](http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf) | Peter Smith
 [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | Bartosz Milewski
 [An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) | Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
 [Computer Science: An interdisciplinary approach](https://introcs.cs.princeton.edu/java/cs/) | Robert Sedgewick, Kevin Wayne
+[DSA CS3: Data Structures & Algorithms](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/) ([Coursenotes](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3notes/html/) - [Slides](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3slides/html/)) | The OpenDSA Project (supported by National Science Foundation)
 
 ## Applications
 
